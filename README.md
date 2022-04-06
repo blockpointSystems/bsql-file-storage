@@ -4,6 +4,9 @@ This is an example script for storing files and relevant metadata in bSQL using 
 # Step 1: download node modules
 `npm download`
 
+# Step 2: create an exports folder
+Create a directory called `exports` within the `app` folder, exported files are stored in `app/exports` 
+
 # Step 2: update your server information in fileStorage.js
 To connect to the right instance you'll have to update `CreateConnection` with the `username`, `password` and `serverAddress`
 
