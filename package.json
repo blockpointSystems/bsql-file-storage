@@ -1,0 +1,27 @@
+{
+  "name": "bsql-file-storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app/fileStorage.js"
+  },
+  "keywords": [],
+  "author": "Cassidy Mounty",
+  "license": "ISC",
+  "dependencies": {
+    "google-protobuf": "^3.20.0",
+    "grpc": "^1.24.11",
+    "mdb-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockpointSystems/bsql-file-storage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blockpointSystems/bsql-file-storage/issues"
+  },
+  "homepage": "https://github.com/blockpointSystems/bsql-file-storage#readme",
+  "description": ""
+}
